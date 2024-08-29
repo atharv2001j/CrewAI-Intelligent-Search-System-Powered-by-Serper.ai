@@ -1,6 +1,5 @@
 
-# CrewAI: AI-Enhanced Search Solution
-
+# CrewAI: Intelligent Search System Powered by Serper.ai
 ## Overview
 
 **CrewAI** is an intelligent search solution powered by the Serper.ai API. This project leverages cutting-edge AI technology to deliver accurate and efficient search results, enhancing data retrieval processes across various applications. Whether you're building a search engine, optimizing content discovery, or automating data analysis, CrewAI provides the tools you need to succeed.
@@ -23,7 +22,7 @@
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/CrewAI.git
+git clone https://github.com/atharv2001j/CrewAI-Intelligent-Search-System-Powered-by-Serper.ai.git
 cd CrewAI
 ```
 
@@ -71,22 +70,14 @@ results = search.execute()
 print(results)
 ```
 
-## Contributing
-
-We welcome contributions! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Thanks to [Serper.ai](https://www.serper.ai/) for providing an exceptional API for AI-driven search capabilities.
 
 ## Contact
 
-For any inquiries or support, please contact [your_email@example.com](mailto:your_email@example.com).
+For any inquiries or support, please contact [your_email@example.com](mailto:joshiatharv67@gmail.com).
 
 ---
 
-This README provides a comprehensive overview, setup instructions, and usage examples to help users get started with your project.
+
