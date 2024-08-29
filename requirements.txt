@@ -1,0 +1,5 @@
+crewai
+langchain_google_genai
+load_dotenv
+streamlit crewai
+crewai_tools
