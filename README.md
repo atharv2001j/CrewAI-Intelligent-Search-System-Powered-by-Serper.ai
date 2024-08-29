@@ -76,7 +76,7 @@ print(results)
 
 ## Contact
 
-For any inquiries or support, please contact [your_email@example.com](mailto:joshiatharv67@gmail.com).
+For any inquiries or support, please contact [joshiatharv67@gmail.com](mailto:joshiatharv67@gmail.com).
 
 ---
 
